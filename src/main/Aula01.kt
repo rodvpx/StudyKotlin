@@ -60,14 +60,4 @@ fun main() {
     val mediaPreco: Double = 22.4
     val resultado: Long = mediaPreco.toLong()
 
-    // testando if else
-
-    val nota1: Double = 2.0
-    val nota2: Double = 5.0
-
-    if (nota1 < nota2){
-        println(nota1 + " < " nota2)
-    } else {
-        println(nota1 + " > " nota2)
-    }
 }
